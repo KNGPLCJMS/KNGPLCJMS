@@ -40,6 +40,8 @@ Browser Based Chess Engine
 Simple Neural Network
 Fractal Site
 Web based OS
+Tetris
+3D Rendering in HTML
 I will add more later
 
 
